@@ -1,0 +1,403 @@
+{"level":"info","message":"Server running on port 5000","timestamp":"2025-06-02T06:40:05.737Z"}
+{"level":"info","message":"Connected to MongoDB","timestamp":"2025-06-02T06:40:05.756Z"}
+{"level":"info","message":"Fetched app name map from API","timestamp":"2025-06-02T06:42:12.437Z"}
+{"level":"info","message":"Started app tracking for user 683d478653be0deacb083094","timestamp":"2025-06-02T06:42:12.464Z"}
+{"level":"info","message":"Started screenshot capture for user 683d478653be0deacb083094","timestamp":"2025-06-02T06:42:12.466Z"}
+{"level":"info","message":"App started: systemprocess (Original: [System Process])","timestamp":"2025-06-02T06:42:12.510Z"}
+{"level":"info","message":"App started: securesystem (Original: Secure System)","timestamp":"2025-06-02T06:42:12.511Z"}
+{"level":"info","message":"App started: lsaiso (Original: LsaIso.exe)","timestamp":"2025-06-02T06:42:12.511Z"}
+{"level":"info","message":"App started: intelcphdcpsvc (Original: IntelCpHDCPSvc.exe)","timestamp":"2025-06-02T06:42:12.511Z"}
+{"level":"info","message":"App started: memorycompression (Original: Memory Compression)","timestamp":"2025-06-02T06:42:12.512Z"}
+{"level":"info","message":"App started: HP Recovery (Original: HPCommRecovery.exe)","timestamp":"2025-06-02T06:42:12.513Z"}
+{"level":"info","message":"App started: ipfsvc (Original: ipfsvc.exe)","timestamp":"2025-06-02T06:42:12.513Z"}
+{"level":"info","message":"App started: officeclicktorun (Original: OfficeClickToRun.exe)","timestamp":"2025-06-02T06:42:12.514Z"}
+{"level":"info","message":"App started: ipfuf (Original: ipf_uf.exe)","timestamp":"2025-06-02T06:42:12.515Z"}
+{"level":"info","message":"App started: rtkauduservice64 (Original: RtkAudUService64.exe)","timestamp":"2025-06-02T06:42:12.515Z"}
+{"level":"info","message":"App started: rtkbtmanserv (Original: RtkBtManServ.exe)","timestamp":"2025-06-02T06:42:12.516Z"}
+{"level":"info","message":"App started: MongoDB (Original: mongod.exe)","timestamp":"2025-06-02T06:42:12.516Z"}
+{"level":"info","message":"App started: secomn64 (Original: SECOMN64.exe)","timestamp":"2025-06-02T06:42:12.517Z"}
+{"level":"info","message":"App started: etdctrl (Original: ETDCtrl.exe)","timestamp":"2025-06-02T06:42:12.517Z"}
+{"level":"info","message":"App started: secocl64 (Original: SECOCL64.exe)","timestamp":"2025-06-02T06:42:12.517Z"}
+{"level":"info","message":"App started: ipfhelper (Original: ipf_helper.exe)","timestamp":"2025-06-02T06:42:12.517Z"}
+{"level":"info","message":"App started: File Explorer (Original: explorer.exe)","timestamp":"2025-06-02T06:42:12.518Z"}
+{"level":"info","message":"App started: ngciso (Original: NgcIso.exe)","timestamp":"2025-06-02T06:42:12.518Z"}
+{"level":"info","message":"App started: Microsoft Edge (Original: msedge.exe)","timestamp":"2025-06-02T06:42:12.518Z"}
+{"level":"info","message":"App started: onedrive (Original: OneDrive.exe)","timestamp":"2025-06-02T06:42:12.518Z"}
+{"level":"info","message":"App started: Lightshot Screenshot (Original: Lightshot.exe)","timestamp":"2025-06-02T06:42:12.519Z"}
+{"level":"info","message":"App started: windowscopilotruntimeactions (Original: WindowsCopilotRuntimeActions.exe)","timestamp":"2025-06-02T06:42:12.519Z"}
+{"level":"info","message":"App started: HP System Utility (Original: HPSystemEventUtilityBackground.exe)","timestamp":"2025-06-02T06:42:12.519Z"}
+{"level":"info","message":"App started: HP Media Network (Original: HPMediaNetwork.exe)","timestamp":"2025-06-02T06:42:12.519Z"}
+{"level":"info","message":"App started: VS Code (Original: Code.exe)","timestamp":"2025-06-02T06:42:12.519Z"}
+{"level":"info","message":"App started: OMEN Command Center (Original: OmenCommandCenterBackground.exe)","timestamp":"2025-06-02T06:42:12.520Z"}
+{"level":"info","message":"App started: Google Chrome (Original: chrome.exe)","timestamp":"2025-06-02T06:42:12.520Z"}
+{"level":"info","message":"App started: overlayhelper (Original: OverlayHelper.exe)","timestamp":"2025-06-02T06:42:12.520Z"}
+{"level":"info","message":"App started: omeninstallmonitor (Original: OmenInstallMonitor.exe)","timestamp":"2025-06-02T06:42:12.520Z"}
+{"level":"info","message":"App started: steam (Original: msteams.exe)","timestamp":"2025-06-02T06:42:12.520Z"}
+{"level":"info","message":"App started: task manager (Original: Taskmgr.exe)","timestamp":"2025-06-02T06:42:12.521Z"}
+{"level":"info","message":"App started: audiodg (Original: audiodg.exe)","timestamp":"2025-06-02T06:42:12.521Z"}
+{"level":"info","message":"App started: Node.js (Original: node.exe)","timestamp":"2025-06-02T06:42:12.521Z"}
+{"level":"info","message":"App started: Command Prompt (Original: cmd.exe)","timestamp":"2025-06-02T06:42:12.521Z"}
+{"level":"info","message":"App started: smartscreen (Original: smartscreen.exe)","timestamp":"2025-06-02T06:42:12.521Z"}
+{"level":"info","message":"App started: fastlistx64 (Original: fastlist-0.3.0-x64.exe)","timestamp":"2025-06-02T06:42:12.522Z"}
+{"level":"info","message":"App started: olk (Original: olk.exe)","timestamp":"2025-06-02T06:42:32.609Z"}
+{"level":"info","message":"App closed: steam (Duration: 96.36s)","timestamp":"2025-06-02T06:43:48.880Z"}
+{"level":"info","message":"Session saved: steam","timestamp":"2025-06-02T06:43:48.883Z"}
+{"level":"info","message":"App started: steam (Original: msteams.exe)","timestamp":"2025-06-02T06:43:58.947Z"}
+{"level":"info","message":"App started: comppkgsrv (Original: CompPkgSrv.exe)","timestamp":"2025-06-02T06:44:13.008Z"}
+{"level":"info","message":"App closed: comppkgsrv (Duration: 1.978s)","timestamp":"2025-06-02T06:44:14.986Z"}
+{"level":"info","message":"Session saved: comppkgsrv","timestamp":"2025-06-02T06:44:14.988Z"}
+{"level":"info","message":"App started: Notepad (Original: Notepad.exe)","timestamp":"2025-06-02T06:45:25.249Z"}
+{"level":"info","message":"App started: rundll32 (Original: rundll32.exe)","timestamp":"2025-06-02T06:45:35.303Z"}
+{"level":"info","message":"App started: msiexec (Original: msiexec.exe)","timestamp":"2025-06-02T06:45:37.341Z"}
+{"level":"info","message":"App started: windowspackagemanagerserver (Original: WindowsPackageManagerServer.exe)","timestamp":"2025-06-02T06:45:41.339Z"}
+{"level":"info","message":"App closed: windowspackagemanagerserver (Duration: 2.009s)","timestamp":"2025-06-02T06:45:43.348Z"}
+{"level":"info","message":"Session saved: windowspackagemanagerserver","timestamp":"2025-06-02T06:45:43.351Z"}
+{"level":"info","message":"App started: filecoauth (Original: FileCoAuth.exe)","timestamp":"2025-06-02T06:45:45.369Z"}
+{"level":"info","message":"App closed: rundll32 (Duration: 10.067s)","timestamp":"2025-06-02T06:45:45.370Z"}
+{"level":"info","message":"Session saved: rundll32","timestamp":"2025-06-02T06:45:45.374Z"}
+{"level":"info","message":"App closed: filecoauth (Duration: 6.018s)","timestamp":"2025-06-02T06:45:51.387Z"}
+{"level":"info","message":"Session saved: filecoauth","timestamp":"2025-06-02T06:45:51.389Z"}
+{"level":"info","message":"App started: apphostregistrationverifier (Original: AppHostRegistrationVerifier.exe)","timestamp":"2025-06-02T06:46:35.549Z"}
+{"level":"info","message":"App closed: apphostregistrationverifier (Duration: 2.011s)","timestamp":"2025-06-02T06:46:37.560Z"}
+{"level":"info","message":"Session saved: apphostregistrationverifier","timestamp":"2025-06-02T06:46:37.562Z"}
+{"level":"info","message":"App started: windowspackagemanagerserver (Original: WindowsPackageManagerServer.exe)","timestamp":"2025-06-02T06:46:41.574Z"}
+{"level":"info","message":"App closed: windowspackagemanagerserver (Duration: 2.02s)","timestamp":"2025-06-02T06:46:43.594Z"}
+{"level":"info","message":"Session saved: windowspackagemanagerserver","timestamp":"2025-06-02T06:46:43.596Z"}
+{"level":"info","message":"Stopped tracking for user 683d478653be0deacb083094","timestamp":"2025-06-02T06:48:30.204Z"}
+{"level":"info","message":"Server running on port 5000","timestamp":"2025-06-02T06:48:36.298Z"}
+{"level":"info","message":"Connected to MongoDB","timestamp":"2025-06-02T06:48:36.332Z"}
+{"level":"info","message":"Fetched app name map from API","timestamp":"2025-06-02T06:49:02.875Z"}
+{"level":"info","message":"Started app tracking for user 683d478653be0deacb083094","timestamp":"2025-06-02T06:49:02.894Z"}
+{"level":"info","message":"Started screenshot capture for user 683d478653be0deacb083094","timestamp":"2025-06-02T06:49:02.895Z"}
+{"level":"info","message":"App started: systemprocess (Original: [System Process])","timestamp":"2025-06-02T06:49:02.939Z"}
+{"level":"info","message":"App started: securesystem (Original: Secure System)","timestamp":"2025-06-02T06:49:02.940Z"}
+{"level":"info","message":"App started: lsaiso (Original: LsaIso.exe)","timestamp":"2025-06-02T06:49:02.941Z"}
+{"level":"info","message":"App started: intelcphdcpsvc (Original: IntelCpHDCPSvc.exe)","timestamp":"2025-06-02T06:49:02.941Z"}
+{"level":"info","message":"App started: memorycompression (Original: Memory Compression)","timestamp":"2025-06-02T06:49:02.942Z"}
+{"level":"info","message":"App started: HP Recovery (Original: HPCommRecovery.exe)","timestamp":"2025-06-02T06:49:02.942Z"}
+{"level":"info","message":"App started: ipfsvc (Original: ipfsvc.exe)","timestamp":"2025-06-02T06:49:02.942Z"}
+{"level":"info","message":"App started: officeclicktorun (Original: OfficeClickToRun.exe)","timestamp":"2025-06-02T06:49:02.942Z"}
+{"level":"info","message":"App started: ipfuf (Original: ipf_uf.exe)","timestamp":"2025-06-02T06:49:02.943Z"}
+{"level":"info","message":"App started: rtkauduservice64 (Original: RtkAudUService64.exe)","timestamp":"2025-06-02T06:49:02.943Z"}
+{"level":"info","message":"App started: rtkbtmanserv (Original: RtkBtManServ.exe)","timestamp":"2025-06-02T06:49:02.943Z"}
+{"level":"info","message":"App started: MongoDB (Original: mongod.exe)","timestamp":"2025-06-02T06:49:02.943Z"}
+{"level":"info","message":"App started: secomn64 (Original: SECOMN64.exe)","timestamp":"2025-06-02T06:49:02.944Z"}
+{"level":"info","message":"App started: etdctrl (Original: ETDCtrl.exe)","timestamp":"2025-06-02T06:49:02.944Z"}
+{"level":"info","message":"App started: secocl64 (Original: SECOCL64.exe)","timestamp":"2025-06-02T06:49:02.944Z"}
+{"level":"info","message":"App started: ipfhelper (Original: ipf_helper.exe)","timestamp":"2025-06-02T06:49:02.944Z"}
+{"level":"info","message":"App started: File Explorer (Original: explorer.exe)","timestamp":"2025-06-02T06:49:02.944Z"}
+{"level":"info","message":"App started: ngciso (Original: NgcIso.exe)","timestamp":"2025-06-02T06:49:02.945Z"}
+{"level":"info","message":"App started: Microsoft Edge (Original: msedgewebview2.exe)","timestamp":"2025-06-02T06:49:02.945Z"}
+{"level":"info","message":"App started: onedrive (Original: OneDrive.exe)","timestamp":"2025-06-02T06:49:02.945Z"}
+{"level":"info","message":"App started: Lightshot Screenshot (Original: Lightshot.exe)","timestamp":"2025-06-02T06:49:02.946Z"}
+{"level":"info","message":"App started: windowscopilotruntimeactions (Original: WindowsCopilotRuntimeActions.exe)","timestamp":"2025-06-02T06:49:02.946Z"}
+{"level":"info","message":"App started: HP System Utility (Original: HPSystemEventUtilityBackground.exe)","timestamp":"2025-06-02T06:49:02.946Z"}
+{"level":"info","message":"App started: HP Media Network (Original: HPMediaNetwork.exe)","timestamp":"2025-06-02T06:49:02.946Z"}
+{"level":"info","message":"App started: VS Code (Original: Code.exe)","timestamp":"2025-06-02T06:49:02.947Z"}
+{"level":"info","message":"App started: OMEN Command Center (Original: OmenCommandCenterBackground.exe)","timestamp":"2025-06-02T06:49:02.947Z"}
+{"level":"info","message":"App started: Google Chrome (Original: chrome.exe)","timestamp":"2025-06-02T06:49:02.948Z"}
+{"level":"info","message":"App started: overlayhelper (Original: OverlayHelper.exe)","timestamp":"2025-06-02T06:49:02.948Z"}
+{"level":"info","message":"App started: omeninstallmonitor (Original: OmenInstallMonitor.exe)","timestamp":"2025-06-02T06:49:02.949Z"}
+{"level":"info","message":"App started: task manager (Original: Taskmgr.exe)","timestamp":"2025-06-02T06:49:02.950Z"}
+{"level":"info","message":"App started: audiodg (Original: audiodg.exe)","timestamp":"2025-06-02T06:49:02.950Z"}
+{"level":"info","message":"App started: Node.js (Original: node.exe)","timestamp":"2025-06-02T06:49:02.950Z"}
+{"level":"info","message":"App started: Command Prompt (Original: cmd.exe)","timestamp":"2025-06-02T06:49:02.950Z"}
+{"level":"info","message":"App started: smartscreen (Original: smartscreen.exe)","timestamp":"2025-06-02T06:49:02.951Z"}
+{"level":"info","message":"App started: olk (Original: olk.exe)","timestamp":"2025-06-02T06:49:02.951Z"}
+{"level":"info","message":"App started: steam (Original: msteams.exe)","timestamp":"2025-06-02T06:49:02.953Z"}
+{"level":"info","message":"App started: Notepad (Original: Notepad.exe)","timestamp":"2025-06-02T06:49:02.953Z"}
+{"level":"info","message":"App started: msiexec (Original: msiexec.exe)","timestamp":"2025-06-02T06:49:02.954Z"}
+{"level":"info","message":"App started: fastlistx64 (Original: fastlist-0.3.0-x64.exe)","timestamp":"2025-06-02T06:49:02.954Z"}
+{"level":"info","message":"Stopped tracking for user 683d478653be0deacb083094","timestamp":"2025-06-02T06:49:05.833Z"}
+{"level":"info","message":"Session saved: systemprocess","timestamp":"2025-06-02T06:49:05.918Z"}
+{"level":"info","message":"Session saved: HP Recovery","timestamp":"2025-06-02T06:49:05.919Z"}
+{"level":"info","message":"Session saved: ipfsvc","timestamp":"2025-06-02T06:49:05.920Z"}
+{"level":"info","message":"Session saved: securesystem","timestamp":"2025-06-02T06:49:05.923Z"}
+{"level":"info","message":"Session saved: lsaiso","timestamp":"2025-06-02T06:49:05.924Z"}
+{"level":"info","message":"Session saved: ipfuf","timestamp":"2025-06-02T06:49:05.926Z"}
+{"level":"info","message":"Session saved: rtkauduservice64","timestamp":"2025-06-02T06:49:05.927Z"}
+{"level":"info","message":"Session saved: rtkbtmanserv","timestamp":"2025-06-02T06:49:05.928Z"}
+{"level":"info","message":"Session saved: MongoDB","timestamp":"2025-06-02T06:49:05.928Z"}
+{"level":"info","message":"Session saved: secomn64","timestamp":"2025-06-02T06:49:05.930Z"}
+{"level":"info","message":"Session saved: etdctrl","timestamp":"2025-06-02T06:49:05.934Z"}
+{"level":"info","message":"Session saved: secocl64","timestamp":"2025-06-02T06:49:05.935Z"}
+{"level":"info","message":"Session saved: ipfhelper","timestamp":"2025-06-02T06:49:05.936Z"}
+{"level":"info","message":"Session saved: File Explorer","timestamp":"2025-06-02T06:49:05.938Z"}
+{"level":"info","message":"Session saved: ngciso","timestamp":"2025-06-02T06:49:05.942Z"}
+{"level":"info","message":"Session saved: Microsoft Edge","timestamp":"2025-06-02T06:49:05.944Z"}
+{"level":"info","message":"Session saved: onedrive","timestamp":"2025-06-02T06:49:05.946Z"}
+{"level":"info","message":"Session saved: windowscopilotruntimeactions","timestamp":"2025-06-02T06:49:05.947Z"}
+{"level":"info","message":"Session saved: HP System Utility","timestamp":"2025-06-02T06:49:05.949Z"}
+{"level":"info","message":"Session saved: HP Media Network","timestamp":"2025-06-02T06:49:05.953Z"}
+{"level":"info","message":"Session saved: officeclicktorun","timestamp":"2025-06-02T06:49:05.956Z"}
+{"level":"info","message":"Session saved: Lightshot Screenshot","timestamp":"2025-06-02T06:49:05.971Z"}
+{"level":"info","message":"Session saved: VS Code","timestamp":"2025-06-02T06:49:05.973Z"}
+{"level":"info","message":"Session saved: OMEN Command Center","timestamp":"2025-06-02T06:49:05.975Z"}
+{"level":"info","message":"Session saved: intelcphdcpsvc","timestamp":"2025-06-02T06:49:05.979Z"}
+{"level":"info","message":"Session saved: memorycompression","timestamp":"2025-06-02T06:49:05.986Z"}
+{"level":"info","message":"Session saved: omeninstallmonitor","timestamp":"2025-06-02T06:49:05.988Z"}
+{"level":"info","message":"Session saved: task manager","timestamp":"2025-06-02T06:49:05.990Z"}
+{"level":"info","message":"Session saved: audiodg","timestamp":"2025-06-02T06:49:05.991Z"}
+{"level":"info","message":"Session saved: Node.js","timestamp":"2025-06-02T06:49:05.992Z"}
+{"level":"info","message":"Session saved: Command Prompt","timestamp":"2025-06-02T06:49:05.996Z"}
+{"level":"info","message":"Session saved: smartscreen","timestamp":"2025-06-02T06:49:06.000Z"}
+{"level":"info","message":"Session saved: steam","timestamp":"2025-06-02T06:49:06.004Z"}
+{"level":"info","message":"Session saved: Notepad","timestamp":"2025-06-02T06:49:06.007Z"}
+{"level":"info","message":"Session saved: fastlistx64","timestamp":"2025-06-02T06:49:06.010Z"}
+{"level":"info","message":"Session saved: olk","timestamp":"2025-06-02T06:49:06.020Z"}
+{"level":"info","message":"Session saved: msiexec","timestamp":"2025-06-02T06:49:06.022Z"}
+{"level":"info","message":"Session saved: Google Chrome","timestamp":"2025-06-02T06:49:06.025Z"}
+{"level":"info","message":"Session saved: overlayhelper","timestamp":"2025-06-02T06:49:06.025Z"}
+{"level":"info","message":"Server running on port 5000","timestamp":"2025-06-02T07:21:50.363Z"}
+{"level":"info","message":"Connected to MongoDB","timestamp":"2025-06-02T07:21:50.386Z"}
+{"level":"info","message":"Server running on port 5000","timestamp":"2025-06-02T07:30:23.314Z"}
+{"level":"info","message":"Connected to MongoDB","timestamp":"2025-06-02T07:30:23.336Z"}
+{"level":"info","message":"Server running on port 5000","timestamp":"2025-06-02T07:34:56.470Z"}
+{"level":"info","message":"Connected to MongoDB","timestamp":"2025-06-02T07:34:56.486Z"}
+{"level":"info","message":"Server running on port 5000","timestamp":"2025-06-02T07:42:34.667Z"}
+{"level":"info","message":"Connected to MongoDB","timestamp":"2025-06-02T07:42:34.685Z"}
+{"level":"info","message":"Fetched app name map from API","timestamp":"2025-06-02T09:10:45.925Z"}
+{"level":"info","message":"Started app tracking for user 683ad170755ea93cd45f75e5","timestamp":"2025-06-02T09:10:45.952Z"}
+{"level":"info","message":"Started screenshot capture for user 683ad170755ea93cd45f75e5","timestamp":"2025-06-02T09:10:45.953Z"}
+{"level":"info","message":"App started: systemprocess (Original: [System Process])","timestamp":"2025-06-02T09:10:45.989Z"}
+{"level":"info","message":"App started: securesystem (Original: Secure System)","timestamp":"2025-06-02T09:10:45.989Z"}
+{"level":"info","message":"App started: lsaiso (Original: LsaIso.exe)","timestamp":"2025-06-02T09:10:45.990Z"}
+{"level":"info","message":"App started: intelcphdcpsvc (Original: IntelCpHDCPSvc.exe)","timestamp":"2025-06-02T09:10:45.990Z"}
+{"level":"info","message":"App started: memorycompression (Original: Memory Compression)","timestamp":"2025-06-02T09:10:45.991Z"}
+{"level":"info","message":"App started: HP Recovery (Original: HPCommRecovery.exe)","timestamp":"2025-06-02T09:10:45.991Z"}
+{"level":"info","message":"App started: ipfsvc (Original: ipfsvc.exe)","timestamp":"2025-06-02T09:10:45.991Z"}
+{"level":"info","message":"App started: officeclicktorun (Original: OfficeClickToRun.exe)","timestamp":"2025-06-02T09:10:45.992Z"}
+{"level":"info","message":"App started: ipfuf (Original: ipf_uf.exe)","timestamp":"2025-06-02T09:10:45.992Z"}
+{"level":"info","message":"App started: rtkauduservice64 (Original: RtkAudUService64.exe)","timestamp":"2025-06-02T09:10:45.992Z"}
+{"level":"info","message":"App started: rtkbtmanserv (Original: RtkBtManServ.exe)","timestamp":"2025-06-02T09:10:45.992Z"}
+{"level":"info","message":"App started: MongoDB (Original: MongoDBCompass.exe)","timestamp":"2025-06-02T09:10:45.993Z"}
+{"level":"info","message":"App started: secomn64 (Original: SECOMN64.exe)","timestamp":"2025-06-02T09:10:45.993Z"}
+{"level":"info","message":"App started: etdctrl (Original: ETDCtrl.exe)","timestamp":"2025-06-02T09:10:45.993Z"}
+{"level":"info","message":"App started: secocl64 (Original: SECOCL64.exe)","timestamp":"2025-06-02T09:10:45.993Z"}
+{"level":"info","message":"App started: ipfhelper (Original: ipf_helper.exe)","timestamp":"2025-06-02T09:10:45.994Z"}
+{"level":"info","message":"App started: File Explorer (Original: explorer.exe)","timestamp":"2025-06-02T09:10:45.995Z"}
+{"level":"info","message":"App started: ngciso (Original: NgcIso.exe)","timestamp":"2025-06-02T09:10:45.996Z"}
+{"level":"info","message":"App started: Microsoft Edge (Original: msedge.exe)","timestamp":"2025-06-02T09:10:45.997Z"}
+{"level":"info","message":"App started: onedrive (Original: OneDrive.exe)","timestamp":"2025-06-02T09:10:45.998Z"}
+{"level":"info","message":"App started: Lightshot Screenshot (Original: Lightshot.exe)","timestamp":"2025-06-02T09:10:45.998Z"}
+{"level":"info","message":"App started: windowscopilotruntimeactions (Original: WindowsCopilotRuntimeActions.exe)","timestamp":"2025-06-02T09:10:45.998Z"}
+{"level":"info","message":"App started: HP System Utility (Original: HPSystemEventUtilityBackground.exe)","timestamp":"2025-06-02T09:10:45.998Z"}
+{"level":"info","message":"App started: HP Media Network (Original: HPMediaNetwork.exe)","timestamp":"2025-06-02T09:10:45.999Z"}
+{"level":"info","message":"App started: VS Code (Original: Code.exe)","timestamp":"2025-06-02T09:10:45.999Z"}
+{"level":"info","message":"App started: OMEN Command Center (Original: OmenCommandCenterBackground.exe)","timestamp":"2025-06-02T09:10:45.999Z"}
+{"level":"info","message":"App started: Google Chrome (Original: chrome.exe)","timestamp":"2025-06-02T09:10:45.999Z"}
+{"level":"info","message":"App started: overlayhelper (Original: OverlayHelper.exe)","timestamp":"2025-06-02T09:10:46.000Z"}
+{"level":"info","message":"App started: omeninstallmonitor (Original: OmenInstallMonitor.exe)","timestamp":"2025-06-02T09:10:46.000Z"}
+{"level":"info","message":"App started: task manager (Original: Taskmgr.exe)","timestamp":"2025-06-02T09:10:46.000Z"}
+{"level":"info","message":"App started: Notepad (Original: Notepad.exe)","timestamp":"2025-06-02T09:10:46.000Z"}
+{"level":"info","message":"App started: lockapp (Original: LockApp.exe)","timestamp":"2025-06-02T09:10:46.000Z"}
+{"level":"info","message":"App started: Node.js (Original: node.exe)","timestamp":"2025-06-02T09:10:46.001Z"}
+{"level":"info","message":"App started: Command Prompt (Original: cmd.exe)","timestamp":"2025-06-02T09:10:46.001Z"}
+{"level":"info","message":"App started: fastlistx64 (Original: fastlist-0.3.0-x64.exe)","timestamp":"2025-06-02T09:10:46.001Z"}
+{"level":"info","message":"Stopped tracking for user 683ad170755ea93cd45f75e5","timestamp":"2025-06-02T09:10:51.862Z"}
+{"level":"info","message":"Session saved: systemprocess","timestamp":"2025-06-02T09:10:51.914Z"}
+{"level":"info","message":"Session saved: HP Recovery","timestamp":"2025-06-02T09:10:51.918Z"}
+{"level":"info","message":"Session saved: ipfsvc","timestamp":"2025-06-02T09:10:51.920Z"}
+{"level":"info","message":"Session saved: lsaiso","timestamp":"2025-06-02T09:10:51.924Z"}
+{"level":"info","message":"Session saved: securesystem","timestamp":"2025-06-02T09:10:51.926Z"}
+{"level":"info","message":"Session saved: officeclicktorun","timestamp":"2025-06-02T09:10:51.927Z"}
+{"level":"info","message":"Session saved: ipfuf","timestamp":"2025-06-02T09:10:51.929Z"}
+{"level":"info","message":"Session saved: rtkauduservice64","timestamp":"2025-06-02T09:10:51.930Z"}
+{"level":"info","message":"Session saved: rtkbtmanserv","timestamp":"2025-06-02T09:10:51.931Z"}
+{"level":"info","message":"Session saved: MongoDB","timestamp":"2025-06-02T09:10:51.934Z"}
+{"level":"info","message":"Session saved: secomn64","timestamp":"2025-06-02T09:10:51.935Z"}
+{"level":"info","message":"Session saved: etdctrl","timestamp":"2025-06-02T09:10:51.935Z"}
+{"level":"info","message":"Session saved: secocl64","timestamp":"2025-06-02T09:10:51.936Z"}
+{"level":"info","message":"Session saved: ipfhelper","timestamp":"2025-06-02T09:10:51.937Z"}
+{"level":"info","message":"Session saved: File Explorer","timestamp":"2025-06-02T09:10:51.938Z"}
+{"level":"info","message":"Session saved: ngciso","timestamp":"2025-06-02T09:10:51.939Z"}
+{"level":"info","message":"Session saved: Microsoft Edge","timestamp":"2025-06-02T09:10:51.940Z"}
+{"level":"info","message":"Session saved: onedrive","timestamp":"2025-06-02T09:10:51.941Z"}
+{"level":"info","message":"Session saved: windowscopilotruntimeactions","timestamp":"2025-06-02T09:10:51.942Z"}
+{"level":"info","message":"Session saved: HP System Utility","timestamp":"2025-06-02T09:10:51.943Z"}
+{"level":"info","message":"Session saved: HP Media Network","timestamp":"2025-06-02T09:10:51.944Z"}
+{"level":"info","message":"Session saved: VS Code","timestamp":"2025-06-02T09:10:51.945Z"}
+{"level":"info","message":"Session saved: OMEN Command Center","timestamp":"2025-06-02T09:10:51.946Z"}
+{"level":"info","message":"Session saved: Google Chrome","timestamp":"2025-06-02T09:10:51.947Z"}
+{"level":"info","message":"Session saved: overlayhelper","timestamp":"2025-06-02T09:10:51.948Z"}
+{"level":"info","message":"Session saved: omeninstallmonitor","timestamp":"2025-06-02T09:10:51.948Z"}
+{"level":"info","message":"Session saved: task manager","timestamp":"2025-06-02T09:10:51.949Z"}
+{"level":"info","message":"Session saved: Notepad","timestamp":"2025-06-02T09:10:51.950Z"}
+{"level":"info","message":"Session saved: Lightshot Screenshot","timestamp":"2025-06-02T09:10:51.954Z"}
+{"level":"info","message":"Session saved: lockapp","timestamp":"2025-06-02T09:10:51.955Z"}
+{"level":"info","message":"Session saved: Node.js","timestamp":"2025-06-02T09:10:51.956Z"}
+{"level":"info","message":"Session saved: memorycompression","timestamp":"2025-06-02T09:10:51.956Z"}
+{"level":"info","message":"Session saved: intelcphdcpsvc","timestamp":"2025-06-02T09:10:51.957Z"}
+{"level":"info","message":"Session saved: Command Prompt","timestamp":"2025-06-02T09:10:51.959Z"}
+{"level":"info","message":"Session saved: fastlistx64","timestamp":"2025-06-02T09:10:51.960Z"}
+{"level":"info","message":"Server running on port 5000","timestamp":"2025-06-02T09:20:22.903Z"}
+{"level":"info","message":"Connected to MongoDB","timestamp":"2025-06-02T09:20:22.917Z"}
+{"level":"info","message":"Fetched app name map from API","timestamp":"2025-06-02T09:21:03.204Z"}
+{"level":"info","message":"Started app tracking for user 683ad170755ea93cd45f75e5","timestamp":"2025-06-02T09:21:03.225Z"}
+{"level":"info","message":"Started screenshot capture for user 683ad170755ea93cd45f75e5","timestamp":"2025-06-02T09:21:03.226Z"}
+{"level":"info","message":"App started: HP Recovery (Original: HPCommRecovery.exe)","timestamp":"2025-06-02T09:21:03.278Z"}
+{"level":"info","message":"App started: MongoDB (Original: MongoDBCompass.exe)","timestamp":"2025-06-02T09:21:03.282Z"}
+{"level":"info","message":"App started: File Explorer (Original: explorer.exe)","timestamp":"2025-06-02T09:21:03.284Z"}
+{"level":"info","message":"App started: Microsoft Edge (Original: msedge.exe)","timestamp":"2025-06-02T09:21:03.284Z"}
+{"level":"info","message":"App started: Lightshot Screenshot (Original: Lightshot.exe)","timestamp":"2025-06-02T09:21:03.285Z"}
+{"level":"info","message":"App started: HP System Utility (Original: HPSystemEventUtilityBackground.exe)","timestamp":"2025-06-02T09:21:03.285Z"}
+{"level":"info","message":"App started: HP Media Network (Original: HPMediaNetwork.exe)","timestamp":"2025-06-02T09:21:03.286Z"}
+{"level":"info","message":"App started: VS Code (Original: Code.exe)","timestamp":"2025-06-02T09:21:03.286Z"}
+{"level":"info","message":"App started: OMEN Command Center (Original: OmenCommandCenterBackground.exe)","timestamp":"2025-06-02T09:21:03.286Z"}
+{"level":"info","message":"App started: Google Chrome (Original: chrome.exe)","timestamp":"2025-06-02T09:21:03.287Z"}
+{"level":"info","message":"App started: task manager (Original: Taskmgr.exe)","timestamp":"2025-06-02T09:21:03.287Z"}
+{"level":"info","message":"App started: Notepad (Original: Notepad.exe)","timestamp":"2025-06-02T09:21:03.287Z"}
+{"level":"info","message":"App started: Node.js (Original: node.exe)","timestamp":"2025-06-02T09:21:03.288Z"}
+{"level":"info","message":"App started: Command Prompt (Original: cmd.exe)","timestamp":"2025-06-02T09:21:03.288Z"}
+{"level":"info","message":"App started: smartscreen (Original: smartscreen.exe)","timestamp":"2025-06-02T09:21:03.288Z"}
+{"level":"info","message":"App started: olk (Original: olk.exe)","timestamp":"2025-06-02T09:21:23.411Z"}
+{"level":"info","message":"App started: steam (Original: msteams.exe)","timestamp":"2025-06-02T09:21:35.429Z"}
+{"level":"info","message":"App started: werfault (Original: WerFault.exe)","timestamp":"2025-06-02T09:21:37.417Z"}
+{"level":"info","message":"App closed: werfault (Duration: 6.019s)","timestamp":"2025-06-02T09:21:43.436Z"}
+{"level":"info","message":"Session saved: werfault","timestamp":"2025-06-02T09:21:43.441Z"}
+{"level":"info","message":"Stopped tracking for user 683ad170755ea93cd45f75e5","timestamp":"2025-06-02T09:21:44.712Z"}
+{"level":"info","message":"Server running on port 5000","timestamp":"2025-06-02T09:22:05.789Z"}
+{"level":"info","message":"Connected to MongoDB","timestamp":"2025-06-02T09:22:05.808Z"}
+{"level":"info","message":"Server running on port 5000","timestamp":"2025-06-02T09:27:09.651Z"}
+{"level":"info","message":"Connected to MongoDB","timestamp":"2025-06-02T09:27:09.673Z"}
+{"level":"info","message":"Fetched app name map from API","timestamp":"2025-06-02T09:31:26.029Z"}
+{"level":"info","message":"Started app tracking for user 683996487d23bbc69a865fdb","timestamp":"2025-06-02T09:31:26.051Z"}
+{"level":"info","message":"Started screenshot capture for user 683996487d23bbc69a865fdb","timestamp":"2025-06-02T09:31:26.053Z"}
+{"level":"info","message":"App started: HP Recovery (Original: HPCommRecovery.exe)","timestamp":"2025-06-02T09:31:26.091Z"}
+{"level":"info","message":"App started: MongoDB (Original: MongoDBCompass.exe)","timestamp":"2025-06-02T09:31:26.092Z"}
+{"level":"info","message":"App started: File Explorer (Original: explorer.exe)","timestamp":"2025-06-02T09:31:26.093Z"}
+{"level":"info","message":"App started: Microsoft Edge (Original: msedgewebview2.exe)","timestamp":"2025-06-02T09:31:26.093Z"}
+{"level":"info","message":"App started: Lightshot Screenshot (Original: Lightshot.exe)","timestamp":"2025-06-02T09:31:26.094Z"}
+{"level":"info","message":"App started: HP System Utility (Original: HPSystemEventUtilityBackground.exe)","timestamp":"2025-06-02T09:31:26.094Z"}
+{"level":"info","message":"App started: HP Media Network (Original: HPMediaNetwork.exe)","timestamp":"2025-06-02T09:31:26.094Z"}
+{"level":"info","message":"App started: VS Code (Original: Code.exe)","timestamp":"2025-06-02T09:31:26.094Z"}
+{"level":"info","message":"App started: OMEN Command Center (Original: OmenCommandCenterBackground.exe)","timestamp":"2025-06-02T09:31:26.095Z"}
+{"level":"info","message":"App started: Google Chrome (Original: chrome.exe)","timestamp":"2025-06-02T09:31:26.095Z"}
+{"level":"info","message":"App started: task manager (Original: Taskmgr.exe)","timestamp":"2025-06-02T09:31:26.095Z"}
+{"level":"info","message":"App started: Notepad (Original: Notepad.exe)","timestamp":"2025-06-02T09:31:26.096Z"}
+{"level":"info","message":"App started: Node.js (Original: node.exe)","timestamp":"2025-06-02T09:31:26.096Z"}
+{"level":"info","message":"App started: Command Prompt (Original: cmd.exe)","timestamp":"2025-06-02T09:31:26.096Z"}
+{"level":"info","message":"App started: Microsoft Outlook (Original: olk.exe)","timestamp":"2025-06-02T09:31:26.096Z"}
+{"level":"info","message":"App started: Microsoft Teams (Original: ms-teams.exe)","timestamp":"2025-06-02T09:31:26.096Z"}
+{"level":"info","message":"App started: git (Original: git.exe)","timestamp":"2025-06-02T09:31:30.157Z"}
+{"level":"info","message":"App closed: git (Duration: 1.941s)","timestamp":"2025-06-02T09:31:32.098Z"}
+{"level":"info","message":"Session saved: git","timestamp":"2025-06-02T09:31:32.104Z"}
+{"level":"info","message":"App started: audiodg (Original: audiodg.exe)","timestamp":"2025-06-02T09:32:16.312Z"}
+{"level":"info","message":"App started: steam (Original: ms-teamsupdate.exe)","timestamp":"2025-06-02T09:32:22.310Z"}
+{"level":"info","message":"App closed: steam (Duration: 2.008s)","timestamp":"2025-06-02T09:32:24.318Z"}
+{"level":"info","message":"Session saved: steam","timestamp":"2025-06-02T09:32:24.324Z"}
+{"level":"info","message":"Stopped tracking for user 683996487d23bbc69a865fdb","timestamp":"2025-06-02T09:34:40.493Z"}
+{"level":"info","message":"Session saved: MongoDB","timestamp":"2025-06-02T09:34:40.564Z"}
+{"level":"info","message":"Session saved: HP Recovery","timestamp":"2025-06-02T09:34:40.569Z"}
+{"level":"info","message":"Session saved: HP System Utility","timestamp":"2025-06-02T09:34:40.571Z"}
+{"level":"info","message":"Session saved: HP Media Network","timestamp":"2025-06-02T09:34:40.572Z"}
+{"level":"info","message":"Session saved: VS Code","timestamp":"2025-06-02T09:34:40.573Z"}
+{"level":"info","message":"Session saved: OMEN Command Center","timestamp":"2025-06-02T09:34:40.574Z"}
+{"level":"info","message":"Session saved: Google Chrome","timestamp":"2025-06-02T09:34:40.575Z"}
+{"level":"info","message":"Session saved: task manager","timestamp":"2025-06-02T09:34:40.576Z"}
+{"level":"info","message":"Session saved: Notepad","timestamp":"2025-06-02T09:34:40.577Z"}
+{"level":"info","message":"Session saved: Command Prompt","timestamp":"2025-06-02T09:34:40.578Z"}
+{"level":"info","message":"Session saved: Microsoft Outlook","timestamp":"2025-06-02T09:34:40.580Z"}
+{"level":"info","message":"Session saved: Microsoft Teams","timestamp":"2025-06-02T09:34:40.582Z"}
+{"level":"info","message":"Session saved: File Explorer","timestamp":"2025-06-02T09:34:40.583Z"}
+{"level":"info","message":"Session saved: Node.js","timestamp":"2025-06-02T09:34:40.586Z"}
+{"level":"info","message":"Session saved: audiodg","timestamp":"2025-06-02T09:34:40.587Z"}
+{"level":"info","message":"Session saved: Microsoft Edge","timestamp":"2025-06-02T09:34:40.588Z"}
+{"level":"info","message":"Session saved: Lightshot Screenshot","timestamp":"2025-06-02T09:34:40.590Z"}
+{"level":"info","message":"Server running on port 5000","timestamp":"2025-06-02T09:55:00.175Z"}
+{"level":"info","message":"Connected to MongoDB","timestamp":"2025-06-02T09:55:00.218Z"}
+{"level":"info","message":"Server running on port 5000","timestamp":"2025-06-02T11:14:50.931Z"}
+{"level":"info","message":"Connected to MongoDB","timestamp":"2025-06-02T11:14:50.962Z"}
+{"level":"info","message":"Fetched app name map from API","timestamp":"2025-06-02T11:51:24.918Z"}
+{"level":"info","message":"Started app tracking for user 683996487d23bbc69a865fdb","timestamp":"2025-06-02T11:51:24.941Z"}
+{"level":"info","message":"Started screenshot capture for user 683996487d23bbc69a865fdb","timestamp":"2025-06-02T11:51:24.943Z"}
+{"level":"info","message":"App started: HP Recovery (Original: HPCommRecovery.exe)","timestamp":"2025-06-02T11:51:24.983Z"}
+{"level":"info","message":"App started: MongoDB (Original: MongoDBCompass.exe)","timestamp":"2025-06-02T11:51:24.984Z"}
+{"level":"info","message":"App started: File Explorer (Original: explorer.exe)","timestamp":"2025-06-02T11:51:24.984Z"}
+{"level":"info","message":"App started: Microsoft Edge (Original: msedge.exe)","timestamp":"2025-06-02T11:51:24.985Z"}
+{"level":"info","message":"App started: Lightshot Screenshot (Original: Lightshot.exe)","timestamp":"2025-06-02T11:51:24.985Z"}
+{"level":"info","message":"App started: HP System Utility (Original: HPSystemEventUtilityBackground.exe)","timestamp":"2025-06-02T11:51:24.986Z"}
+{"level":"info","message":"App started: HP Media Network (Original: HPMediaNetwork.exe)","timestamp":"2025-06-02T11:51:24.986Z"}
+{"level":"info","message":"App started: VS Code (Original: Code.exe)","timestamp":"2025-06-02T11:51:24.986Z"}
+{"level":"info","message":"App started: OMEN Command Center (Original: OmenCommandCenterBackground.exe)","timestamp":"2025-06-02T11:51:24.987Z"}
+{"level":"info","message":"App started: Google Chrome (Original: chrome.exe)","timestamp":"2025-06-02T11:51:24.987Z"}
+{"level":"info","message":"App started: task manager (Original: Taskmgr.exe)","timestamp":"2025-06-02T11:51:24.987Z"}
+{"level":"info","message":"App started: Notepad (Original: Notepad.exe)","timestamp":"2025-06-02T11:51:24.987Z"}
+{"level":"info","message":"App started: Microsoft Teams (Original: ms-teams.exe)","timestamp":"2025-06-02T11:51:24.988Z"}
+{"level":"info","message":"App started: audiodg (Original: audiodg.exe)","timestamp":"2025-06-02T11:51:24.988Z"}
+{"level":"info","message":"App started: Node.js (Original: node.exe)","timestamp":"2025-06-02T11:51:24.988Z"}
+{"level":"info","message":"App started: Command Prompt (Original: cmd.exe)","timestamp":"2025-06-02T11:51:24.988Z"}
+{"level":"info","message":"App started: smartscreen (Original: smartscreen.exe)","timestamp":"2025-06-02T11:51:24.988Z"}
+{"level":"info","message":"App started: rg (Original: rg.exe)","timestamp":"2025-06-02T11:52:03.112Z"}
+{"level":"info","message":"App closed: rg (Duration: 1.993s)","timestamp":"2025-06-02T11:52:05.106Z"}
+{"level":"info","message":"Session saved: rg","timestamp":"2025-06-02T11:52:05.112Z"}
+{"level":"info","message":"App closed: smartscreen (Duration: 58.19s)","timestamp":"2025-06-02T11:52:23.178Z"}
+{"level":"info","message":"Session saved: smartscreen","timestamp":"2025-06-02T11:52:23.181Z"}
+{"level":"info","message":"Stopped tracking for user 683996487d23bbc69a865fdb","timestamp":"2025-06-02T11:53:22.223Z"}
+{"level":"info","message":"Session saved: HP Recovery","timestamp":"2025-06-02T11:53:22.255Z"}
+{"level":"info","message":"Session saved: HP System Utility","timestamp":"2025-06-02T11:53:22.256Z"}
+{"level":"info","message":"Session saved: HP Media Network","timestamp":"2025-06-02T11:53:22.258Z"}
+{"level":"info","message":"Session saved: VS Code","timestamp":"2025-06-02T11:53:22.260Z"}
+{"level":"info","message":"Session saved: OMEN Command Center","timestamp":"2025-06-02T11:53:22.265Z"}
+{"level":"info","message":"Session saved: Google Chrome","timestamp":"2025-06-02T11:53:22.268Z"}
+{"level":"info","message":"Session saved: task manager","timestamp":"2025-06-02T11:53:22.270Z"}
+{"level":"info","message":"Session saved: Notepad","timestamp":"2025-06-02T11:53:22.271Z"}
+{"level":"info","message":"Session saved: Microsoft Teams","timestamp":"2025-06-02T11:53:22.272Z"}
+{"level":"info","message":"Session saved: MongoDB","timestamp":"2025-06-02T11:53:22.281Z"}
+{"level":"info","message":"Session saved: File Explorer","timestamp":"2025-06-02T11:53:22.284Z"}
+{"level":"info","message":"Session saved: audiodg","timestamp":"2025-06-02T11:53:22.287Z"}
+{"level":"info","message":"Session saved: Node.js","timestamp":"2025-06-02T11:53:22.289Z"}
+{"level":"info","message":"Session saved: Command Prompt","timestamp":"2025-06-02T11:53:22.291Z"}
+{"level":"info","message":"Session saved: Microsoft Edge","timestamp":"2025-06-02T11:53:22.302Z"}
+{"level":"info","message":"Session saved: Lightshot Screenshot","timestamp":"2025-06-02T11:53:22.303Z"}
+{"level":"info","message":"Server running on port 5000","timestamp":"2025-06-02T11:59:48.872Z"}
+{"level":"info","message":"Connected to MongoDB","timestamp":"2025-06-02T11:59:48.898Z"}
+{"level":"info","message":"Server running on port 5000","timestamp":"2025-06-03T05:10:29.663Z"}
+{"level":"info","message":"Connected to MongoDB","timestamp":"2025-06-03T05:10:29.690Z"}
+{"level":"info","message":"Server running on port 5000","timestamp":"2025-06-05T08:43:00.324Z"}
+{"level":"info","message":"Connected to MongoDB","timestamp":"2025-06-05T08:43:03.277Z"}
+{"level":"info","message":"Server running on port 5000","timestamp":"2025-06-05T08:52:17.557Z"}
+{"level":"info","message":"Connected to MongoDB","timestamp":"2025-06-05T08:52:18.553Z"}
+{"level":"info","message":"Server running on port 5000","timestamp":"2025-06-05T08:55:20.426Z"}
+{"level":"info","message":"Connected to MongoDB","timestamp":"2025-06-05T08:55:21.120Z"}
+{"level":"info","message":"Fetched app name map from API","timestamp":"2025-06-05T08:57:04.134Z"}
+{"level":"info","message":"Started app tracking for user 68415b6e61cacb065c545929","timestamp":"2025-06-05T08:57:04.174Z"}
+{"level":"info","message":"Started screenshot capture for user 68415b6e61cacb065c545929","timestamp":"2025-06-05T08:57:04.175Z"}
+{"level":"info","message":"App started: HP Recovery (Original: HPCommRecovery.exe)","timestamp":"2025-06-05T08:57:04.225Z"}
+{"level":"info","message":"App started: MongoDB (Original: mongod.exe)","timestamp":"2025-06-05T08:57:04.226Z"}
+{"level":"info","message":"App started: File Explorer (Original: explorer.exe)","timestamp":"2025-06-05T08:57:04.226Z"}
+{"level":"info","message":"App started: hpmyhp (Original: HP.myHP.exe)","timestamp":"2025-06-05T08:57:04.227Z"}
+{"level":"info","message":"App started: Microsoft Teams (Original: ms-teams.exe)","timestamp":"2025-06-05T08:57:04.228Z"}
+{"level":"info","message":"App started: Microsoft Edge (Original: msedge.exe)","timestamp":"2025-06-05T08:57:04.229Z"}
+{"level":"info","message":"App started: Lightshot Screenshot (Original: Lightshot.exe)","timestamp":"2025-06-05T08:57:04.230Z"}
+{"level":"info","message":"App started: HP System Utility (Original: HPSystemEventUtilityBackground.exe)","timestamp":"2025-06-05T08:57:04.230Z"}
+{"level":"info","message":"App started: HP Media Network (Original: HPMediaNetwork.exe)","timestamp":"2025-06-05T08:57:04.232Z"}
+{"level":"info","message":"App started: OMEN Command Center (Original: OmenCommandCenterBackground.exe)","timestamp":"2025-06-05T08:57:04.234Z"}
+{"level":"info","message":"App started: Google Chrome (Original: chrome.exe)","timestamp":"2025-06-05T08:57:04.234Z"}
+{"level":"info","message":"App started: Notepad (Original: Notepad.exe)","timestamp":"2025-06-05T08:57:04.235Z"}
+{"level":"info","message":"App started: VS Code (Original: Code.exe)","timestamp":"2025-06-05T08:57:04.236Z"}
+{"level":"info","message":"App started: audiodg (Original: audiodg.exe)","timestamp":"2025-06-05T08:57:04.239Z"}
+{"level":"info","message":"App started: smartscreen (Original: smartscreen.exe)","timestamp":"2025-06-05T08:57:04.240Z"}
+{"level":"info","message":"App started: Node.js (Original: node.exe)","timestamp":"2025-06-05T08:57:04.241Z"}
+{"level":"info","message":"App started: Command Prompt (Original: cmd.exe)","timestamp":"2025-06-05T08:57:04.243Z"}
+{"level":"info","message":"App started: Microsoft Outlook (Original: olk.exe)","timestamp":"2025-06-05T08:57:24.295Z"}
+{"level":"info","message":"App closed: Microsoft Outlook (Duration: 4.003s)","timestamp":"2025-06-05T08:57:28.298Z"}
+{"level":"info","message":"Session saved: Microsoft Outlook","timestamp":"2025-06-05T08:57:28.367Z"}
+{"level":"info","message":"Stopped tracking for user 68415b6e61cacb065c545929","timestamp":"2025-06-05T08:57:30.654Z"}
+{"level":"info","message":"Session saved: HP Recovery","timestamp":"2025-06-05T08:57:30.759Z"}
+{"level":"info","message":"Session saved: MongoDB","timestamp":"2025-06-05T08:57:30.761Z"}
+{"level":"info","message":"Session saved: File Explorer","timestamp":"2025-06-05T08:57:30.763Z"}
+{"level":"info","message":"Session saved: Microsoft Edge","timestamp":"2025-06-05T08:57:30.811Z"}
+{"level":"info","message":"Session saved: Lightshot Screenshot","timestamp":"2025-06-05T08:57:30.813Z"}
+{"level":"info","message":"Session saved: HP System Utility","timestamp":"2025-06-05T08:57:30.816Z"}
+{"level":"info","message":"Session saved: HP Media Network","timestamp":"2025-06-05T08:57:30.865Z"}
+{"level":"info","message":"Session saved: OMEN Command Center","timestamp":"2025-06-05T08:57:30.868Z"}
+{"level":"info","message":"Session saved: Google Chrome","timestamp":"2025-06-05T08:57:30.876Z"}
+{"level":"info","message":"Session saved: Notepad","timestamp":"2025-06-05T08:57:30.927Z"}
+{"level":"info","message":"Session saved: VS Code","timestamp":"2025-06-05T08:57:30.928Z"}
+{"level":"info","message":"Session saved: audiodg","timestamp":"2025-06-05T08:57:30.930Z"}
+{"level":"info","message":"Session saved: smartscreen","timestamp":"2025-06-05T08:57:30.979Z"}
+{"level":"info","message":"Session saved: Node.js","timestamp":"2025-06-05T08:57:30.980Z"}
+{"level":"info","message":"Session saved: Command Prompt","timestamp":"2025-06-05T08:57:30.988Z"}
+{"level":"info","message":"Session saved: hpmyhp","timestamp":"2025-06-05T08:57:31.142Z"}
+{"level":"info","message":"Session saved: Microsoft Teams","timestamp":"2025-06-05T08:57:32.111Z"}
