@@ -30,7 +30,7 @@ mongoose.connect(process.env.MONGODB_URI)
     }
   })
   .catch(err => logger.error('MongoDB connection error:', err));
-  
+
 // Middleware
 app.use(cors());
 app.use(express.json());
@@ -59,13 +59,13 @@ app.use('/api/app-name-map', appNameMapRoute);
 //     res.sendFile(path.join(__dirname, 'frontend', 'build', 'index.html'));
 //   });
 // }
-if (process.env.NODE_ENV === 'production') {
-  app.use(express.static(path.join(__dirname, '../'))); // serve the main frontend folder
+// if (process.env.NODE_ENV === 'production') {
+//   app.use(express.static(path.join(__dirname, '../'))); // serve the main frontend folder
 
-  app.get('*', (req, res) => {
-    res.sendFile(path.join(__dirname, '../', 'index.html')); // serve the root index.html
-  });
-}
+//   app.get('*', (req, res) => {
+//     res.sendFile(path.join(__dirname, '../', 'index.html')); // serve the root index.html
+//   });
+// }
 
 // Error handling
 app.use((err, req, res, next) => {
