@@ -7,6 +7,7 @@ const adminRoutes = require('./routes/adminRoutes');
 const logger = require('./utils/logger');
 const { authenticate } = require('./middleware/authMiddleware');
 const path = require('path'); // ✅ Fix for ReferenceError
+const createTestUser = require('./create-test-user');
 
 require('dotenv').config();
 const cleanup = require('./utils/cleanupJob');
@@ -15,10 +16,21 @@ const app = express();
 const appNameMapRoute = require('./routes/appNameMap');
 
 // Database connection
-mongoose.connect(process.env.MONGODB_URI)
-  .then(() => logger.info('Connected to MongoDB'))
-  .catch(err => logger.error('MongoDB connection error:', err));
+// mongoose.connect(process.env.MONGODB_URI)
+//   .then(() => logger.info('Connected to MongoDB'))
+//   .catch(err => logger.error('MongoDB connection error:', err));
 
+mongoose.connect(process.env.MONGODB_URI)
+  .then(async () => {
+    logger.info('Connected to MongoDB');
+
+    // Only run once: create test users
+    if (process.env.NODE_ENV !== 'production' || process.env.CREATE_TEST_USERS === 'true') {
+      await createTestUser(); // run on startup if needed
+    }
+  })
+  .catch(err => logger.error('MongoDB connection error:', err));
+  
 // Middleware
 app.use(cors());
 app.use(express.json());
